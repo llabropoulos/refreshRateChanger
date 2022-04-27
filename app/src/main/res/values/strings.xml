@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Refresh Rate Changer - for One Plus 7 Pro</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Refresh Rate Changer</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="change2zero">Lock to 90</string>
+    <string name="change3zero">Lock to MAX</string>
+    <string name="change2one">Reset</string>
+    <string name="reason">This app was created for OnePlus 7 Pro, when a11 was released for this phone a disturbing scaling issue was introduced. \n  \n The only way to fix it is by locking the refresh rate to 90hz </string>
+    <string name="otherPhones">For other One Plus Phones try this:</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
