@@ -4,12 +4,13 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    namespace "com.example.refreshratechanger"
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.refreshratechanger"
         minSdk 21
-        targetSdk 31
+        targetSdk 36
         versionCode 2
         versionName "1.0.1"
 
